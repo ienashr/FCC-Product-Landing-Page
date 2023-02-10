@@ -1,2 +1,3 @@
 # FCC-Product-Landing-Page
-certification project
+Responsive Web Design Certification Projects
+
